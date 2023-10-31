@@ -11,10 +11,10 @@ Servo servo2;
 Servo servo3;
 Servo servo4;
 
-offset1 = 20;
-offset2 = 0;
-offset3 = 10;
-offset4 = -13;
+int offset1 = 20;
+int offset2 = 0;
+int offset3 = 10;
+int offset4 = -13;
 
 void translateIR()
 {
