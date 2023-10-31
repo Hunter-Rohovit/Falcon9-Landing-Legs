@@ -9,4 +9,16 @@ This image shows the process from my very first attempt to the final product. St
 ![IMG-2303](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/2d2507a9-44ee-40bb-9f12-d14c436b57c6)
 ![IMG-2308](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/dee30b7c-f7e0-4cef-ab22-51cd57471422)
 ![IMG-2311](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/f2898d4b-a7df-474e-ac7a-7f8433d46234) <br>
+Everything except for the servo motors was 3D printed on my Anycubic Chiron printer. <br>
+
+## Assembly
+![IMG-2300](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/45aba75c-4c63-4018-9cec-bdd0a818f9b6) <br>
+![IMG-2299](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/1889227e-8063-4fa8-8c93-cdae50ec577e) <br>
+![unnamed](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/a46ec630-9687-400c-a45b-93fc033f4d8b) <br>
+![IMG-2305](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/9611036b-d483-474e-84c3-c7602f34668d) <br>
+![IMG-2313](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/aaf94f76-8132-4e16-91bd-3851c94a4f53) <br>
+![Sliders](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/ad333289-2f55-42d7-bca6-8fb8eaf94b2c) <br>
+![final prototype](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/f4f4f182-39ad-4145-9c37-6bbedfe30324) <br>
+![Full Landing Legs](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/34e84a7b-7828-49ca-98ef-2ed4bbde4cae) <br>
+
 
