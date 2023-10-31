@@ -27,6 +27,6 @@ The sliders that I designed were by far my favorite part of the project. It seem
 ![final prototype](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/f4f4f182-39ad-4145-9c37-6bbedfe30324) <br>
 After putting together the sliders and screwing the slider cap on, I inserted the two pins (small axils I 3d printed to create a revolute joint) into their dedicated spots and the entire system moved like it was supposed to. There were some issues with the largest piece of the sliders being too long, so the landing leg wouldn't be able to fold all the way, but after adjusting that, the landing leg folded together perfectly. <br>
 ![Full Landing Legs](https://github.com/Hunter-Rohovit/Rubik-s-Cube-Simulator/assets/105554281/34e84a7b-7828-49ca-98ef-2ed4bbde4cae) <br>
-And after adding the electronics and uploading the code my Falcon 9 Landing Legs Model was complete!!<br>
+And after adding the electronics and uploading the code my Falcon 9 Landing Legs Model was complete!! (And yes it does look like the Leaning Tower of Pisa, I'm working to fix balance issues)<br>
 
 
