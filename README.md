@@ -5,6 +5,7 @@ Here is my model of SpaceX's Falcon 9 with retractable landing legs. Fascinated 
 # Physical Model 
 ![IMG-2296](https://github.com/Hunter-Rohovit/Falcon9-Landing-Legs/assets/105554281/b323f8ce-2f28-4561-9e37-9df3156d632f)
 # CAD Model
+![Falcon 9 Landing Legs](https://github.com/Hunter-Rohovit/Falcon9-Landing-Legs/assets/105554281/83eded05-5c7d-4301-89b0-2f13e8fed260)
 
 
 
